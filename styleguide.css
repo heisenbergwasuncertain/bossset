@@ -1,0 +1,20 @@
+:root { 
+  --anzac: #e0aa3e;
+  --biscay: #13316c;
+  --black: #000000;
+  --deep-koamaru: #1a237e;
+  --jacksons-purple: #1f3092;
+  --peach-orange: #ffcc99;
+  --red: #ff0000;
+  --sizzling-sunrise: #f6da06;
+  --white: #ffffff;
+ 
+  --font-size-xs: 12px;
+  --font-size-xxl: 25px;
+  --font-size-xxl2: 17px;
+  --font-size-xxl22: 22px;
+  --font-size-xxxl: 30px;
+  --font-size-xxxxl: 35px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+}
